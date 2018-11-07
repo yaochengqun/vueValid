@@ -1,4 +1,4 @@
-# vue-valid
+# vue-valid (OK)
 
 > A Vue.js project
 
